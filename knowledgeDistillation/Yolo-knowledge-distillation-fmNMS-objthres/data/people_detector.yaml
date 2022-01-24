@@ -1,0 +1,9 @@
+train: ../dataset_people_count/autosplit_train.txt/
+val: ../dataset_people_count/autosplit_val.txt
+
+# number of classes
+nc: 2
+
+# class names
+names: [ 'person', 'head' ]
+
